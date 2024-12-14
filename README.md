@@ -12,14 +12,20 @@ I'm a passionate **QA Automation Engineer** with a strong focus on delivering hi
 - **API Testing:** Postman, Rest Assured
 
 ### 💻 **Programming & Scripting**
-- **Languages:** Java, Python, JavaScript, Groovy
+- **Languages:** Java, Python, JavaScript, Groovy, R
 - **Build Tools:** Maven, Gradle
 - **Version Control:** Git, GitHub, GitLab
+- **Data Engineering:** Hadoop, Spark, SQL
+- **Data Visualization:** Shiny, RStudio
+- **Databases:** PostgreSQL, MySQL
 
 ### 🌐 **DevOps & CI/CD**
 - **Tools:** Jenkins, GitHub Actions, GitLab CI/CD
 - **Containerization:** Docker
 - **Cloud Platforms:** AWS
+
+### 📊 **Metrics & Reporting**
+- Data dashboards using **Shiny** for interactive visualizations.
 
 ---
 
@@ -37,12 +43,18 @@ I'm a passionate **QA Automation Engineer** with a strong focus on delivering hi
 - Created a robust mobile testing framework with **Appium** for Android apps.
 - Automated 70% of critical user journeys, improving release confidence.
 
+### 🚀 **Data Pipeline & Dashboard Visualization**
+- Designed and implemented **data pipelines** to process large datasets using **R**, **Hadoop**, and **Spark**.
+- Embedded **SQL queries** in R scripts to query a **data lake**, storing results in a **PostgreSQL database**.
+- Developed an interactive dashboard using **Shiny** to visualize data insights for stakeholders.
+- Automated notifications with **Slack**, sharing dashboard links with users for real-time data access.
+
 ---
 
 ## 📈 Stats & Achievements
 - **Experience:** 8+ years in QA Automation
 - **Automated Test Cases Written:** 2,000+
-- **Domains Worked In:** E-commerce, Finance, EdTech, Healthcare
+- **Domains Worked In:** E-commerce, Finance, EdTech, Healthcare, Data Analytics
 
 ---
 
