@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Germán Gómez!
 
 ## 🚀 About Me
-I'm a passionate **QA Automation Engineer** with a strong focus on delivering high-quality software through efficient and robust automated testing. With a deep understanding of automation frameworks, CI/CD pipelines, and quality best practices, I thrive on solving complex problems and ensuring seamless user experiences.
+I'm a passionate **QA Automation Engineer** with a strong focus on delivering high-quality software through efficient and robust automated testing. With a deep understanding of automation frameworks, CI/CD pipelines, and quality best practices, I thrive on solving complex problems and ensuring seamless user experiences. Additionally, I have experience building **data pipelines** and developing **data visualization dashboards** to extract actionable insights for end users. 
 
 ---
 
