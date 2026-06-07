@@ -118,8 +118,7 @@ Designed and implemented a data pipeline that queries a **data lake** via embedd
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=germanegomez&show_icons=true&theme=default&hide_border=true" alt="Germán's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanegomez&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=germanegomez&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
